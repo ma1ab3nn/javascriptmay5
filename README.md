@@ -1,1 +1,1 @@
-# javascriptmay5
+Practical lesson on Function and Control Flow Lesson Tasks, i had to Write a simple program to combine a first name and a last name inside a function. Then update the function to accept a first and last name as arguments, and other small programs such as determining whether to wear a coat based on the temperature outside.
